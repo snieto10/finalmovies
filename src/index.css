@@ -16,3 +16,19 @@ code {
 .clickable {
   cursor: pointer;
 }
+
+.navbar10 {
+  display: inline;
+  list-style-type: none;
+}
+.navbar100 {
+  display: inline;
+  list-style-type: none;
+  margin: 0 40px;
+}
+
+.sergio {
+  display: flex;
+  justify-content: center;
+  border: 3px solid gray;
+}
